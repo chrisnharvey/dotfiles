@@ -63,6 +63,7 @@ TopRight=None
 
 [ModifierOnlyShortcuts]
 Alt=com.github.zren.PlasmaHUD,/PlasmaHUD,com.github.zren.PlasmaHUD,toggleHUD
+Meta=org.kde.krunner,/App,,display
 
 [MouseBindings]
 CommandActiveTitlebar1=Raise
