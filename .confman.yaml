@@ -1,10 +1,13 @@
 paths:
-    /etc/pam.d/kde-fingerprint: kde-fingerprint
+    /etc/pam.d/kde-fingerprint: opensuse/kde-fingerprint
+    /etc/zypp/repos.d/brave-browser.repo: opensuse/repos/brave-browser
+    /etc/zypp/repos.d/ftp.gwdg.de-openSUSE_Tumbleweed.repo: opensuse/repos/packman
+    /etc/zypp/repos.d/vscode.repo: opensuse/repos/vscode
     /home/chris/.config/git/config: chris/git-config
-    /home/chris/.config/kdeglobals: kdeglobals
+    /home/chris/.config/kdeglobals: chris/kdeglobals
     /home/chris/.config/kglobalshortcutsrc: chris/kglobalshortcutsrc
     /home/chris/.config/kwinrc: chris/kwinrc
     /home/chris/.config/plasma-org.kde.plasma.desktop-appletsrc: chris/plasma-desktop
     /home/chris/.config/plasmarc: chris/plasmarc
-    /home/chris/.config/plasmashellrc: plasmashellrc
+    /home/chris/.config/plasmashellrc: chris/plasmashellrc
     /home/chris/.zshrc: chris/zshrc
