@@ -1,0 +1,10 @@
+paths:
+    /etc/pam.d/kde-fingerprint: kde-fingerprint
+    /home/chris/.config/git/config: chris/git-config
+    /home/chris/.config/kdeglobals: kdeglobals
+    /home/chris/.config/kglobalshortcutsrc: chris/kglobalshortcutsrc
+    /home/chris/.config/kwinrc: chris/kwinrc
+    /home/chris/.config/plasma-org.kde.plasma.desktop-appletsrc: chris/plasma-desktop
+    /home/chris/.config/plasmarc: chris/plasmarc
+    /home/chris/.config/plasmashellrc: plasmashellrc
+    /home/chris/.zshrc: chris/zshrc

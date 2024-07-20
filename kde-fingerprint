@@ -1,0 +1,3 @@
+#%PAM-1.0
+# for fingerprint
+auth     required       pam_fprintd.so
