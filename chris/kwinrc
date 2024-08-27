@@ -1,6 +1,8 @@
 [Desktops]
-Id_1=462915c3-ec4a-4be0-94ca-2d63c3039d01
-Id_2=4b50e367-fe08-412a-8cf4-1c13be35a25a
+Id_1=4b50e367-fe08-412a-8cf4-1c13be35a25a
+Id_2=db567270-f2da-4a9e-a873-69d2bcc011d9
+Name_1=Desktop 2
+Name_2=Desktop 3
 Number=2
 Rows=1
 
@@ -25,7 +27,7 @@ padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][efd8a803-f901-5343-b9b5-0623ff50cc28]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5},{"width":0.5}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Windows]
 BorderlessMaximizedWindows=true
